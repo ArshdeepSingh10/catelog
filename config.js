@@ -3,6 +3,6 @@ window.CONFIG={
   CLOUD_NAME:'dh1bbfjn1',
   UPLOAD_PRESET:'catalog',
   SHOP_NAME:'My Mobile',
-  WHATSAPP:'91847272828',   // country code + number, no + or spaces
+  WHATSAPP:'918284840646',   // country code + number, no + or spaces
   CURRENCY:'₹'
 };
