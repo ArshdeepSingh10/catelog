@@ -1,11 +1,8 @@
 window.CONFIG={
-  API_URL:'PASTE_THIS_SHOPS_WEB_APP_URL',
-  CLOUD_NAME:'PASTE_CLOUDINARY_CLOUD_NAME',
-  UPLOAD_PRESET:'PASTE_UNSIGNED_PRESET_NAME',
+  API_URL:'https://script.google.com/macros/s/AKfycbxdPVCf_tPB7zXbzUsYVQeO0bBks1DUa4pYaamPEhnuuQF5FTd5bhOR1PYc5F8lJOSz4A/exec',
+  CLOUD_NAME:'dh1bbfjn1',
+  UPLOAD_PRESET:'catalog',
   SHOP_NAME:'My Mobile Communication',
-  CITY:'Ludhiana',
-  WHATSAPP:'91XXXXXXXXXX',   // shop's WhatsApp number: country code + number, no + or spaces
-  PHONE:'',                  // optional, e.g. '+91XXXXXXXXXX' (shows a Call link in the footer)
-  MAP_URL:'https://www.google.com/maps/search/?api=1&query=30.8796187,75.8582985',
+  WHATSAPP:'91847272828',   // country code + number, no + or spaces
   CURRENCY:'₹'
 };
